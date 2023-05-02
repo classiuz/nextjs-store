@@ -1,0 +1,609 @@
+[
+  {
+    "name": "Destiny 2",
+    "picture": "/games/destiny-2/picture.jpg",
+    "logo": "/games/destiny-2/logo.jpg",
+    "banner": "/games/destiny-2/banner.jpg",
+    "tags": ["Free to play", "Mundo abierto", "FPS", "Disparos", "Espacio"],
+    "price": 0,
+    "offer": { "available": false, "percentage": 0, "date": "" },
+    "releaseDate": "1 Oct, 2019",
+    "developer": ["Bungie"],
+    "publisher": ["Bungie"],
+    "platforms": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series X/S"],
+    "reviews": "",
+    "requirements": {
+      "minimum": [
+        "Windows® 7 / Windows® 8.1 / Windows® 10 64-bit (latest Service Pack)",
+        "Intel® Core™ i3 3250 3.5 GHz or Intel Pentium G4560 3.5 GHz / AMD FX-4350 4.2 GHz",
+        "6 GB RAM",
+        "NVIDIA® GeForce® GTX 660 2GB or GTX 1050 2GB / AMD Radeon HD 7850 2GB",
+        "",
+        "Broadband Internet connection",
+        "105 GB available space",
+        ""
+      ],
+      "recommended": [
+        "System Windows® 7 / Windows® 8.1 / Windows® 10 64-bit (latest Service Pack)",
+        "Processor Intel® Core™ i5 2400 3.4 GHz or i5 7400 3.5 GHz / AMD Ryzen R5 1600X 3.6 GHz",
+        "8 GB RAM",
+        "NVIDIA® GeForce® GTX 970 4GB or GTX 1060 6GB / AMD R9 390 8GB Memory 8 GB RAM",
+        "",
+        "Broadband Internet connection",
+        "105 GB available space",
+        ""
+      ]
+    },
+    "lenguages": [
+      "English",
+      "Spanish - Latin America",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Japanese",
+      "Korean",
+      "Polish",
+      "Portuguese - Brazil",
+      "Russian",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "description": "Dive into the world of Destiny 2 to explore the mysteries of the solar system and experience responsive first-person shooter combat. Unlock powerful elemental abilities and collect unique gear to customize your Guardian's look and playstyle. Enjoy Destiny 2’s cinematic story, challenging co-op missions, and a variety of PvP modes alone or with friends. Download for free today and write your legend in the stars.\r\n\r\nYou are a Guardian, defender of the Last City of humanity in a solar system under siege by infamous villains. Look to the stars and stand against the darkness. Your legend begins now. Choose from the armored Titan, mystic Warlock, or swift Hunter.",
+    "rating": { "categorie": "Teen", "content": "Blood, Language, Violence", "image": "/rating/T.svg" },
+    "galery": [
+      { "type": "video", "thumbnail": "/games/destiny-2/thumbnail.jpg", "src": "/games/destiny-2/trailer.mp4" },
+      { "type": "image", "thumbnail": "", "src": "/games/destiny-2/image-1.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/destiny-2/image-2.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/destiny-2/image-3.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/destiny-2/image-4.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/destiny-2/image-5.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/destiny-2/image-6.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/destiny-2/image-7.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/destiny-2/image-8.jpg" }
+    ]
+  },
+  {
+    "name": "ARK: Survival Evolved",
+    "picture": "/games/ark/picture.jpg",
+    "logo": "/games/ark/logo.jpg",
+    "banner": "/games/ark/banner.jpg",
+    "tags": ["Supervivencia", "Rol", "Multijugador", "Dinosaurios", "Mundo abierto", "Juego en oferta"],
+    "price": 539.99,
+    "offer": { "available": true, "percentage": 15, "date": "12 de Abril" },
+    "releaseDate": "27 Aug, 2017",
+    "developer": ["Studio Wildcard", "Instinct Games", "Efecto Studios", "Virtual Basement LLC"],
+    "publisher": ["Studio Wildcard"],
+    "platforms": ["PC", "Nintendo Switch", "PS4", "Xbox One", "Android", "Xbox Series X/S", "iOS"],
+    "reviews": "",
+    "requirements": {
+      "minimum": [
+        "Windows 7/8.1/10 (64-bit versions)",
+        "Intel Core i5-2400/AMD FX-8320 or better",
+        "8 GB RAM",
+        "NVIDIA GTX 670 2GB/AMD Radeon HD 7870 2GB or better",
+        "Version 10",
+        "",
+        "60 GB available space",
+        "Requires broadband internet connection for multiplayer"
+      ],
+      "recommended": [""]
+    },
+    "lenguages": [
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Russian",
+      "Portuguese - Brazil",
+      "Simplified Chinese",
+      "Czech",
+      "Danish",
+      "Dutch",
+      "Hungarian",
+      "Polish",
+      "Swedish",
+      "Thai",
+      "Traditional Chinese",
+      "Turkish",
+      "Ukrainian",
+      "Finnish",
+      "Japanese",
+      "Korean"
+    ],
+    "description": "As a man or woman stranded naked, freezing and starving on the shores of a mysterious island called ARK, you must hunt, harvest resources, craft items, grow crops, research technologies, and build shelters to withstand the elements. Use your cunning and resources to kill or tame & breed the leviathan dinosaurs and other primeval creatures roaming the land, and team up with or prey on hundreds of other players to survive, dominate... and escape!\r\n\r\nDinosaurs, Creatures, & Breeding! -- over 100+ creatures can be tamed using a challenging capture-&-affinity process, involving weakening a feral creature to knock it unconscious, and then nursing it back to health with appropriate food. Once tamed, you can issue commands to your tames, which it may follow depending on how well you’ve tamed and trained it. Tames, which can continue to level-up and consume food, can also carry Inventory and Equipment such as Armor, carry prey back to your settlement depending on their strength, and larger tames can be ridden and directly controlled! Fly a Pterodactyl over the snow-capped mountains, lift allies over enemy walls, race through the jungle with a pack of Raptors, tromp through an enemy base along a gigantic brontosaurus, or chase down prey on the back of a raging T-Rex! Take part in a dynamic ecosystem life-cycle with its own predator & prey hierarchies, where you are just one creature among many species struggling for dominance and survival. Tames can also be mated with the opposite gender, to selectively breed successive generations using a trait system based on recombinant genetic inheritance. This process includes both egg-based incubation and mammalian gestation lifecycles! Or put more simply, raise babies!\r\n\r\nThe over-the-top hyper real imagery of the ARK its creatures is brought to expressive life using a highly-customized Unreal Engine 4, with fully dynamic lighting & global illumination, weather systems (rain, fog, snow, etc) & true-to-life volumetric cloud simulation, and the latest in advanced DirectX11 and DirectX12 rendering techniques. Music by award-winning composer of \"Ori and the Blind Forest\", Gareth Coker!",
+    "rating": {
+      "categorie": "Teen",
+      "content": "Blood, Crude Humor, Use of Alcohol, Violence",
+      "image": "/rating/T.svg"
+    },
+    "galery": [
+      { "type": "video", "thumbnail": "/games/ark/thumbnail.jpg", "src": "/games/ark/trailer.mp4" },
+      { "type": "image", "thumbnail": "", "src": "/games/ark/image-1.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/ark/image-2.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/ark/image-3.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/ark/image-4.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/ark/image-5.jpg" }
+    ]
+  },
+  {
+    "name": "Age of Empires II: Definitive Edition",
+    "picture": "/games/age-de/picture.jpg",
+    "logo": "/games/age-de/logo.jpg",
+    "banner": "/games/age-de/banner.jpg",
+    "tags": ["2D", "Estrategia", "Competitivo", "Multijugador"],
+    "price": 539.99,
+    "offer": { "available": false, "percentage": 0, "date": "" },
+    "releaseDate": "14 Nov, 2019",
+    "developer": ["Forgotten Empires", "Tantalus Media", "Wicked Witch", "World's Edge"],
+    "publisher": ["Xbox Game Studios"],
+    "platforms": ["PC", "Xbox One", "Xbox Series X/S"],
+    "reviews": "",
+    "requirements": {
+      "minimum": [
+        "Windows 10 64bit",
+        "Intel Core 2 Duo or AMD Athlon 64x2 5600+",
+        "4 GB RAM",
+        "NVIDIA® GeForce® GT 420 or ATI™ Radeon™ HD 6850 or Intel® HD Graphics 4000 or better with 2 GB VRAM",
+        "Version 11",
+        "Broadband Internet connection",
+        "43 GB available space",
+        "2GB of video memory + 4GB of system memory required"
+      ],
+      "recommended": [
+        "Windows 10 64bit",
+        "2.4 Ghz i5 or greater or AMD equivalent",
+        "8 GB RAM",
+        "Nvidia® GTX 650 or AMD HD 5850 or better",
+        "Version 11",
+        "Broadband Internet connection",
+        "43 GB available space",
+        ""
+      ]
+    },
+    "lenguages": [
+      "English",
+      "Spanish - Latin America",
+      "French",
+      "Italian",
+      "German",
+      "Japanese",
+      "Korean",
+      "Portuguese - Brazil",
+      "Russian",
+      "Simplified Chinese",
+      "Traditional Chinese",
+      "Turkish",
+      "Vietnamese",
+      "Spanish - Spain",
+      "Polish",
+      "Hindi",
+      "Malay"
+    ],
+    "description": "Age of Empires II: Definitive Edition celebrates the 20th anniversary of one of the most popular strategy games ever, now with stunning 4K Ultra HD graphics, and a fully remastered soundtrack. Age of Empires II: DE features “The Last Khans” with 3 new campaigns and 4 new Civilizations. Frequent updates include events, additional content, new game modes, and enhanced features with the recent addition of Co-Op mode!\r\n\r\nExplore all the original Campaigns and the best-selling expansions like never before. With over 200 hours of gameplay and 1,000 years of human history, improved experiences await. Head online to challenge other players in your quest for world domination with 35 different Civilizations. You can also experience new Civilizations and Campaigns with the Lords of the West DLC! Recent updates include a Battle Royale game mode, ongoing support for the Scenario Editor, Quick Play for easy social games, enhancements to the game UI, and more!\r\n\r\nChoose your path to greatness with an eye-catching and engaging remaster to one of the most beloved strategy games of all time.",
+    "rating": { "categorie": "Teen", "content": "Mild Blood, Mild Language, Violence", "image": "/rating/T.svg" },
+    "galery": [
+      { "type": "video", "thumbnail": "/games/age-de/thumbnail.jpg", "src": "/games/age-de/trailer.mp4" },
+      { "type": "image", "thumbnail": "", "src": "/games/age-de/image-1.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/age-de/image-2.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/age-de/image-3.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/age-de/image-4.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/age-de/image-5.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/age-de/image-6.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/age-de/image-7.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/age-de/image-8.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/age-de/image-9.jpg" }
+    ]
+  },
+  {
+    "name": "Stardew Valley",
+    "picture": "/games/stardew-valley/picture.jpg",
+    "logo": "/games/stardew-valley/logo.jpg",
+    "banner": "/games/stardew-valley/banner.jpg",
+    "tags": ["Simulador", "Pixelados", "Rol", "Multijugador", "Indie", "Juego en oferta"],
+    "price": 539.99,
+    "offer": { "available": true, "percentage": 29, "date": "12 de Agosto" },
+    "releaseDate": "26 Feb, 2016",
+    "developer": ["ConcernedApe"],
+    "publisher": ["ConcernedApe"],
+    "platforms": ["PC", "PS4", "Nintendo Switch", "Android", "Xbox One", "iOS"],
+    "reviews": "",
+    "requirements": {
+      "minimum": [
+        "Windows Vista or greater",
+        "2 Ghz",
+        "2 GB RAM",
+        "256 mb video memory, shader model 3.0+",
+        "Version 10",
+        "",
+        "500 MB available space",
+        ""
+      ],
+      "recommended": [""]
+    },
+    "lenguages": [
+      "English",
+      "German",
+      "Spanish - Spain",
+      "Japanese",
+      "Portuguese - Brazil",
+      "Russian",
+      "Simplified Chinese",
+      "French",
+      "Italian",
+      "Hungarian",
+      "Korean",
+      "Turkish"
+    ],
+    "description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home? It won't be easy. Ever since Joja Corporation came to town, the old ways of life have all but disappeared. The community center, once the town's most vibrant hub of activity, now lies in shambles. But the valley seems full of opportunity. With a little dedication, you might just be the one to restore Stardew Valley to greatness!",
+    "rating": {
+      "categorie": "Everyone 10+",
+      "content": "Fantasy Violence, Mild Blood, Mild Language, Simulated Gambling, Use of Alcohol and Tobacco",
+      "image": "/rating/E10.svg"
+    },
+    "galery": [
+      {
+        "type": "video",
+        "thumbnail": "/games/stardew-valley/thumbnail.jpg",
+        "src": "/games/stardew-valley/trailer.mp4"
+      },
+      { "type": "image", "thumbnail": "", "src": "/games/stardew-valley/image-1.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/stardew-valley/image-2.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/stardew-valley/image-3.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/stardew-valley/image-4.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/stardew-valley/image-5.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/stardew-valley/image-6.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/stardew-valley/image-7.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/stardew-valley/image-8.jpg" }
+    ]
+  },
+  {
+    "name": "Among Us",
+    "picture": "/games/among-us/picture.jpg",
+    "logo": "/games/among-us/logo.jpg",
+    "banner": "/games/among-us/banner.jpg",
+    "tags": ["Multijugador", "2D", "Supervivencia", "Espacio", "Indie", "Juego en oferta"],
+    "price": 239.99,
+    "offer": { "available": true, "percentage": 85, "date": "25 de Junio" },
+    "releaseDate": "16 Nov, 2018",
+    "developer": ["Innersloth"],
+    "publisher": ["Innersloth"],
+    "platforms": ["PC", "Nintendo Switch", "Android", "PS5", "PS4", "Xbox One", "iOS", "Xbox Series X/S"],
+    "reviews": "",
+    "requirements": {
+      "minimum": ["Windows 10 x32bit", "Intel i3-4330", "1 GB RAM", "Intel HD Graphics 4600", "", "", "", ""],
+      "recommended": ["Windows 10 x64bit", "Intel i3-4330", "4 GB RAM", "Nvidia GTX 650", "", "", "", ""]
+    },
+    "lenguages": [
+      "English",
+      "Spanish - Latin America",
+      "Portuguese - Brazil",
+      "Spanish - Spain",
+      "Korean",
+      "Russian",
+      "French",
+      "Italian",
+      "German",
+      "Dutch",
+      "Japanese",
+      "Portuguese - Portugal",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "description": "Play with 4-15 player online or via local WiFi as you attempt to prepare your spaceship for departure, but beware as one or more random players among the Crew are Impostors bent on killing everyone!\r\n\r\nOriginally created as a party game, we recommend playing with friends at a LAN party or online using voice chat. Enjoy cross-platform play between Android, iOS, PC, and console.",
+    "rating": { "categorie": "Everyone 10+", "content": "Fantasy Violence, Mild Blood", "image": "/rating/E10.svg" },
+    "galery": [
+      { "type": "video", "thumbnail": "/games/among-us/thumbnail.jpg", "src": "/games/among-us/trailer.mp4" },
+      { "type": "image", "thumbnail": "", "src": "/games/among-us/image-1.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/among-us/image-2.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/among-us/image-3.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/among-us/image-4.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/among-us/image-5.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/among-us/image-6.jpg" }
+    ]
+  },
+  {
+    "name": "Cuphead",
+    "picture": "/games/cuphead/picture.jpg",
+    "logo": "/games/cuphead/logo.jpg",
+    "banner": "/games/cuphead/banner.jpg",
+    "tags": ["2D", "Dibujos animados", "Difíciles", "Cooperativo", "Indie"],
+    "price": 539.99,
+    "offer": { "available": false, "percentage": 0, "date": "" },
+    "releaseDate": "29 Sep, 2017",
+    "developer": ["Studio MDHR Entertainment Inc."],
+    "publisher": ["Studio MDHR Entertainment Inc."],
+    "platforms": ["PC", "Nintendo Switch", "PS4", "Xbox One"],
+    "reviews": "",
+    "requirements": {
+      "minimum": [
+        "Windows 7",
+        "Intel Core2 Duo E8400, 3.0GHz or AMD Athlon 64 X2 6000+, 3.0GHz or higher",
+        "3 GB RAM",
+        "Geforce 9600 GT or AMD HD 3870 512MB or higher",
+        "Version 11",
+        "",
+        "4 GB available space",
+        ""
+      ],
+      "recommended": [""]
+    },
+    "lenguages": [
+      "English",
+      "Spanish - Latin America",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Japanese",
+      "Korean",
+      "Polish",
+      "Portuguese - Brazil",
+      "Russian",
+      "Simplified Chinese"
+    ],
+    "description": "Cuphead is a classic run and gun action game heavily focused on boss battles. Inspired by cartoons of the 1930s, the visuals and audio are painstakingly created with the same techniques of the era, i.e. traditional hand drawn cel animation, watercolor backgrounds, and original jazz recordings.\r\n\r\nPlay as Cuphead or Mugman (in single player or local co-op) as you traverse strange worlds, acquire new weapons, learn powerful super moves, and discover hidden secrets while you try to pay your debt back to the devil!",
+    "rating": {
+      "categorie": "Everyone 10+",
+      "content": "Fantasy Violence, Mild Language, Use of Alcohol and Tobacco",
+      "image": "/rating/E10.svg"
+    },
+    "galery": [
+      { "type": "video", "thumbnail": "/games/cuphead/thumbnail.jpg", "src": "/games/cuphead/trailer.mp4" },
+      { "type": "image", "thumbnail": "", "src": "/games/cuphead/image-1.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/cuphead/image-2.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/cuphead/image-3.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/cuphead/image-4.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/cuphead/image-5.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/cuphead/image-6.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/cuphead/image-7.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/cuphead/image-8.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/cuphead/image-9.jpg" }
+    ]
+  },
+  {
+    "name": "Apex Legends",
+    "picture": "/games/apex/picture.jpg",
+    "logo": "/games/apex/logo.jpg",
+    "banner": "/games/apex/banner.jpg",
+    "tags": ["Free to play", "Multijugador", "Battle Royale", "Disparos"],
+    "price": 0,
+    "offer": { "available": false, "percentage": 0, "date": "" },
+    "releaseDate": "5 Nov, 2020",
+    "developer": ["Respawn Entertainment"],
+    "publisher": ["Electronic Arts"],
+    "platforms": ["PC", "Nintendo Switch", "PS4", "PS5", "Xbox One", "Xbox Series X/S", "Android", "iOS"],
+    "reviews": "",
+    "requirements": {
+      "minimum": [
+        "64-bit Windows 7",
+        "AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent",
+        "6 GB RAM",
+        "AMD Radeon™ HD 7730, NVIDIA GeForce® GT 640",
+        "Version 11",
+        "Broadband Internet connection",
+        "56 GB available space",
+        "~3.8GB for 1 localized language"
+      ],
+      "recommended": [
+        "64-bit Windows 7",
+        "Ryzen 5 CPU or Equivalent",
+        "8 GB RAM",
+        "AMD Radeon™ R9 290, NVIDIA GeForce® GTX 970",
+        "Version 11",
+        "Broadband Internet connection",
+        "56 GB available space",
+        "~3.8GB for 1 localized language"
+      ]
+    },
+    "lenguages": [
+      "English",
+      "Spanish - Latin America",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Japanese",
+      "Korean",
+      "Polish",
+      "Portuguese - Brazil",
+      "Russian",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "description": "Conquer with character in Apex Legends, a free-to-play* Hero shooter where legendary characters with powerful abilities team up to battle for fame & fortune on the fringes of the Frontier.\r\n\r\nMaster an ever-growing roster of diverse Legends, deep-tactical squad play, and bold, new innovations that go beyond the Battle Royale experience — all within a rugged world where anything goes. Welcome to the next evolution of Hero Shooter.\r\n\r\nThis game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items, including a random selection of virtual in-game items.\r\n\r\nNote that any unused Apex Coins will expire 180 days after the first date in which they are acquired or purchased. The oldest Apex Coins that are subject to expiration in your balance will always be used first when using them to make in-game purchases.\r\n\r\nApex Packs purchase is not available in Belgium.",
+    "rating": { "categorie": "Teen", "content": "Blood, Violence", "image": "/rating/T.svg" },
+    "galery": [
+      { "type": "video", "thumbnail": "/games/apex/thumbnail.jpg", "src": "/games/apex/trailer.mp4" },
+      { "type": "image", "thumbnail": "", "src": "/games/apex/image-1.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/apex/image-2.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/apex/image-3.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/apex/image-4.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/apex/image-5.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/apex/image-6.jpg" }
+    ]
+  },
+  {
+    "name": "Don't Starve Together",
+    "picture": "/games/dont-starve-together/picture.jpg",
+    "logo": "/games/dont-starve-together/logo.jpg",
+    "banner": "/games/dont-starve-together/banner.jpg",
+    "tags": ["2D", "Supervivencia", "Mundo abierto", "Difíciles", "Indie", "Multijugador", "Juego en oferta"],
+    "price": 53.99,
+    "offer": { "available": true, "percentage": 100, "date": "24 de Junio" },
+    "releaseDate": "21 Apr, 2016",
+    "developer": ["Klei Entertainment"],
+    "publisher": ["Klei Entertainment"],
+    "platforms": ["PC", "PS4", "Xbox One"],
+    "reviews": "",
+    "requirements": {
+      "minimum": [
+        "Windows Vista/Windows 7/Windows 8",
+        "1.7+ GHz or better",
+        "1 GB RAM",
+        "Radeon HD5450 or better; 256 MB or higher",
+        "Version 9.0c",
+        "Broadband Internet connection",
+        "3 GB available space",
+        ""
+      ],
+      "recommended": [""]
+    },
+    "lenguages": ["English", "Simplified Chinese"],
+    "description": "Fight, Farm, Build and Explore Together in the standalone multiplayer expansion to the uncompromising wilderness survival game, Don't Starve.\r\n\r\nEnter a strange and unexplored world full of odd creatures, hidden dangers, and ancient secrets. Gather resources to craft items and build structures that match your survival style. Play your way as you unravel the mysteries of \"The Constant\".\r\n\r\nCooperate with your friends in a private game, or find new friends online. Work with other players to survive the harsh environment, or strike out on your own.\r\n\r\nDo whatever it takes, but most importantly, Don't Starve.",
+    "rating": { "categorie": "Teen", "content": "Fantasy Violence, Crude Humor", "image": "/rating/T.svg" },
+    "galery": [
+      {
+        "type": "video",
+        "thumbnail": "/games/dont-starve-together/thumbnail.jpg",
+        "src": "/games/dont-starve-together/trailer.mp4"
+      },
+      { "type": "image", "thumbnail": "", "src": "/games/dont-starve-together/image-1.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/dont-starve-together/image-2.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/dont-starve-together/image-3.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/dont-starve-together/image-4.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/dont-starve-together/image-5.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/dont-starve-together/image-6.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/dont-starve-together/image-7.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/dont-starve-together/image-8.jpg" }
+    ]
+  },
+  {
+    "name": "Counter-Strike: Global Offensive",
+    "picture": "/games/csgo/picture.jpg",
+    "logo": "/games/csgo/logo.jpg",
+    "banner": "/games/csgo/banner.jpg",
+    "tags": ["FPS", "Competitivo", "Estrategia", "Realista", "Multijugador", "Disparos", "Free to play"],
+    "price": 0,
+    "offer": { "available": false, "percentage": 0, "date": "" },
+    "releaseDate": "21 Aug 2012",
+    "developer": ["Valve", "Hidden Path Entertainment"],
+    "publisher": ["Valve"],
+    "platforms": ["PC", "PS3", "Xbox 360", "Xbox One"],
+    "reviews": "",
+    "requirements": {
+      "minimum": [
+        "Windows® 7/Vista/XP",
+        "Intel® Core™ 2 Duo E6600 or AMD Phenom™ X3 8750 processor or better",
+        "2 GB RAM",
+        "Video card must be 256 MB or more and should be a DirectX 9-compatible with support for Pixel Shader 3.0",
+        "Version 9.0c",
+        "",
+        "15 GB available space",
+        ""
+      ],
+      "recommended": [""]
+    },
+    "lenguages": [
+      "English",
+      "Spanish - Latin America",
+      "Czech",
+      "Danish",
+      "Dutch",
+      "Finnish",
+      "French",
+      "German",
+      "Hungarian",
+      "Italian",
+      "Japanese",
+      "Korean",
+      "Norwegian",
+      "Polish",
+      "Portuguese - Portugal",
+      "Portuguese - Brazil",
+      "Romanian",
+      "Russian",
+      "Simplified Chinese",
+      "Spanish - Spain",
+      "Swedish",
+      "Thai",
+      "Traditional Chinese",
+      "Turkish",
+      "Bulgarian",
+      "Ukrainian",
+      "Greek",
+      "Vietnamese"
+    ],
+    "description": "Counter-Strike: Global Offensive (CS: GO) expands upon the team-based action gameplay that it pioneered when it was launched 19 years ago.\r\n\r\nCS: GO features new maps, characters, weapons, and game modes, and delivers updated versions of the classic CS content (de_dust2, etc.).\r\n\r\n\"Counter-Strike took the gaming industry by surprise when the unlikely MOD became the most played online PC action game in the world almost immediately after its release in August 1999,\" said Doug Lombardi at Valve. \"For the past 12 years, it has continued to be one of the most-played games in the world, headline competitive gaming tournaments and selling over 25 million units worldwide across the franchise. CS: GO promises to expand on CS' award-winning gameplay and deliver it to gamers on the PC as well as the next gen consoles and the Mac.\"",
+    "rating": { "categorie": "Mature 17+", "content": "Blood, Intense Violence", "image": "/rating/M.svg" },
+    "galery": [
+      { "type": "video", "thumbnail": "/games/csgo/thumbnail.jpg", "src": "/games/csgo/trailer.mp4" },
+      { "type": "image", "thumbnail": "", "src": "/games/csgo/image-1.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/csgo/image-2.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/csgo/image-3.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/csgo/image-4.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/csgo/image-5.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/csgo/image-6.jpg" }
+    ]
+  },
+  {
+    "name": "Red Dead Redemption II",
+    "picture": "/games/red-dead-redemption-2/picture.jpg",
+    "logo": "/games/red-dead-redemption-2/logo.jpg",
+    "banner": "/games/red-dead-redemption-2/banner.jpg",
+    "tags": ["Mundo abierto", "Multijugador", "Aventuras", "Disparos", "Realista", "Juego en oferta"],
+    "price": 36.99,
+    "offer": { "available": true, "percentage": 67, "date": "5 de Noviembre" },
+    "releaseDate": "5 Dec, 2019",
+    "developer": ["Rockstar Games"],
+    "publisher": ["Rockstar Games"],
+    "platforms": ["PC", "PS4", "Xbox One"],
+    "reviews": "",
+    "requirements": {
+      "minimum": [
+        "Windows 10 - April 2018 Update (v1803)",
+        "Intel® Core™ i7-4770K / AMD Ryzen 5 1500X",
+        "12 GB RAM",
+        "Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB",
+        "",
+        "Broadband Internet connection",
+        "150 GB available space",
+        ""
+      ],
+      "recommended": [
+        "Windows 10 - April 2018 Update (v1803)",
+        "Intel® Core™ i7-4770K / AMD Ryzen 5 1500X",
+        "12 GB RAM",
+        "Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GB",
+        "",
+        "Broadband Internet connection",
+        "150 GB available space",
+        ""
+      ]
+    },
+    "lenguages": [
+      "English",
+      "Spanish - Latin America",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Japanese",
+      "Korean",
+      "Polish",
+      "Portuguese - Portugal",
+      "Russian",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "description": "America, 1899.\r\n\r\nArthur Morgan and the Van der Linde gang are outlaws on the run. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal divisions threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang who raised him.\r\n\r\nNow featuring additional Story Mode content and a fully-featured Photo Mode, Red Dead Redemption 2 also includes free access to the shared living world of Red Dead Online, where players take on an array of roles to carve their own unique path on the frontier as they track wanted criminals as a Bounty Hunter, create a business as a Trader, unearth exotic treasures as a Collector or run an underground distillery as a Moonshiner and much more.\r\n\r\nWith all new graphical and technical enhancements for deeper immersion, Red Dead Redemption 2 for PC takes full advantage of the power of the PC to bring every corner of this massive, rich and detailed world to life including increased draw distances; higher quality global illumination and ambient occlusion for improved day and night lighting; improved reflections and deeper, higher resolution shadows at all distances; tessellated tree textures and improved grass and fur textures for added realism in every plant and animal.\r\n\r\nRed Dead Redemption 2 for PC also offers HDR support, the ability to run high-end display setups with 4K resolution and beyond, multi-monitor configurations, widescreen configurations, faster frame rates and more.",
+    "rating": {
+      "categorie": "Mature 17+",
+      "content": "Blood and Gore, Intense Violence, Nudity, Sexual Content, Strong Language, Use of Drugs and Alcohol",
+      "image": "/rating/M.svg"
+    },
+    "galery": [
+      {
+        "type": "video",
+        "thumbnail": "/games/red-dead-redemption-2/thumbnail.jpg",
+        "src": "/games/red-dead-redemption-2/trailer.mp4"
+      },
+      { "type": "image", "thumbnail": "", "src": "/games/red-dead-redemption-2/image-1.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/red-dead-redemption-2/image-2.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/red-dead-redemption-2/image-3.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/red-dead-redemption-2/image-4.jpg" },
+      { "type": "image", "thumbnail": "", "src": "/games/red-dead-redemption-2/image-5.jpg" }
+    ]
+  }
+]
